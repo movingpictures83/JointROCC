@@ -1,0 +1,2 @@
+Prefix plugins/JointROCC/example/
+Plugin JointROCC inputfile parameters.txt outputfile output.png

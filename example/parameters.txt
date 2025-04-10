@@ -1,0 +1,5 @@
+trainstat	output.stat1.train.tsv
+trainorigin	output.origin.train.tsv
+teststat	output.stat1.test.tsv
+testorigin	output.origin.test.tsv
+model	model-1.json
